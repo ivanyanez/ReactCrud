@@ -6,7 +6,7 @@ import React from 'react'
 
 import Logo from '../components/templates/Logo'
 import Nav from '../components/templates/Nav'
-import Main from '../components/templates/Main'
+import Home from '../components/home/Home'
 import Footer from '../components/templates/Footer'
 
 
@@ -15,8 +15,9 @@ export default props =>
         <Logo/>
 
         <Nav/>
+        <Home/>
 
-        <Main icon="home"  title="Início" subtitle=""/>
+        
 
         <Footer/>
         
