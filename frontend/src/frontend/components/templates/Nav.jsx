@@ -7,11 +7,11 @@ export default props =>
 
         <nav className="class menu">
 
-                <a href="#/">
+                <a href="/">
 
                     <i className="fa fa-home"></i>Inicio
                 </a>
-                <a href="#/users">
+                <a href="/users">
                     <i className="fa fa-users"></i> Usuarios
                 </a>
 
