@@ -12,6 +12,7 @@ export default (props) => {
       <Route exact path="/" element={<Home />} />
       <Route exact path="/users" element={<UserCrud />} />
       <Route exact path="/newuser" element={<NewUser />} />
+      <Route exact path="/form" element={<FormUser />} />
 
       <Route path="*" element={<Home />} />
     </Routes>
