@@ -1,19 +1,29 @@
-
 {
-    "users" : [{
-        "id" : 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@codebr.com.br"
-        }, {
-
-
-        "id" : 2,
-        "name":"Maria Julia da Silva",
-        "email": "mjds@empresa.com.br"
-
-
-    }]
-
-
+  "users": [
+    {
+      "name": "",
+      "email": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "Ivan",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "IVAN",
+      "email": "ivanyanez_sjc@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Mateus",
+      "email": "m2E.com",
+      "id": 5
+    }
+  ]
 }
-
